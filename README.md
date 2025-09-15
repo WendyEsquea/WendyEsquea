@@ -1,6 +1,7 @@
-# 👩‍💻 Wendy Esquea | Desarrolladora Frontend
+# 👩‍💻 Wendy Esquera | Desarrolladora Frontend
 
-![Banner]([https://via.placeholder.com/1200x400.png?text=Desarrolladora+Frontend](https://tse2.mm.bing.net/th/id/OIP.TYQTrlEk0xAV_ET_uiVgIgHaHa?w=196&h=196&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3))  <!-- Reemplaza con tu propio banner -->
+![Mi Banner](https://i.pinimg.com/736x/81/23/21/81232143b3c78c159b366a7f1c75b7c1.jpg)
+
 
 Soy una **desarrolladora frontend** con pasión por crear interfaces visualmente atractivas, intuitivas y funcionales. Con un fuerte enfoque en **React.js**, **CSS**, y **JavaScript**, me esfuerzo por optimizar cada línea de código y asegurarme de que cada experiencia digital sea única y profesional.
 
