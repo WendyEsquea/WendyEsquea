@@ -1,4 +1,4 @@
-# 👩‍💻 Wendy Esquera | Desarrolladora Frontend
+# 👩‍💻 Wendy Esquea | Desarrolladora Frontend
 
 ![Banner](https://via.placeholder.com/1200x400.png?text=Desarrolladora+Frontend)  <!-- Reemplaza con tu propio banner -->
 
