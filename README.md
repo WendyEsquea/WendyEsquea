@@ -1,8 +1,5 @@
 # 👩‍💻 Wendy Esquera | Desarrolladora Frontend
 
-![Mi Banner](https://i.pinimg.com/736x/81/23/21/81232143b3c78c159b366a7f1c75b7c1.jpg)
-
-
 Soy una **desarrolladora frontend** con pasión por crear interfaces visualmente atractivas, intuitivas y funcionales. Con un fuerte enfoque en **React.js**, **CSS**, y **JavaScript**, me esfuerzo por optimizar cada línea de código y asegurarme de que cada experiencia digital sea única y profesional.
 
 ---
