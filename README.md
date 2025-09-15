@@ -1,1 +1,1 @@
-# 👩‍💻 Wendy Esquea |
+# 👩‍💻 Wendy Esquea 
