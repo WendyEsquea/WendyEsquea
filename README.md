@@ -1,62 +1,48 @@
-## Hi there 👋
+# 👩‍💻 Wendy Esquera | Desarrolladora Frontend
 
-# 🌸 ¡Hola! Soy Wendy Esquera 👩‍💻✨
+![Banner](https://via.placeholder.com/1200x400.png?text=Desarrolladora+Frontend)  <!-- Reemplaza con tu propio banner -->
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Bienvenidos+a+mi+perfil+de+GitHub)  <!-- Reemplaza esta URL con tu propio banner -->
+Soy una **desarrolladora frontend** apasionada por la creación de **experiencias digitales atractivas y funcionales**. Mi objetivo es transformar ideas en interfaces visuales que no solo sean intuitivas y fáciles de usar, sino que también proporcionen un rendimiento impecable en todos los dispositivos.
 
-Soy una **desarrolladora Full-Stack** apasionada por crear soluciones innovadoras que mejoren la vida de las personas. Me encanta aprender nuevas tecnologías y colaborar en proyectos interesantes. 🚀
+Con un enfoque en **React.js**, **JavaScript**, y **CSS**, me esfuerzo constantemente por mejorar mis habilidades, aprender nuevas tecnologías y mantenerme al día con las tendencias más recientes del desarrollo frontend.
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 💻 Habilidades Técnicas
 
-### 💻 Backend
-- **Python** (Django, Flask)
-- **Node.js** (Express)
-- **MongoDB**, **MySQL**
-
-### 🎨 Frontend
+### **Frontend Development**
+- **HTML5**, **CSS3**, **JavaScript**
 - **React.js**, **Next.js**
-- **HTML5**, **CSS3**, **Tailwind CSS**
+- **Tailwind CSS**, **Sass**, **Bootstrap**
+- **Responsividad**: Diseño adaptable (Mobile First)
+- **Optimización de rendimiento**: Mejora de tiempos de carga y eficiencia
 
-### ⚙️ Otras Herramientas
-- **Git**, **Docker**, **CI/CD**
-
----
-
-## 🔥 Proyectos Destacados
-
-### 1. **[Mi Proyecto Web](https://github.com/tu-usuario/proyecto-web)**
-- Desarrollé una app web para **[Descripción del Proyecto]**.
-
-### 2. **[Mi App Móvil](https://github.com/tu-usuario/app-movil)**
-- Aplicación móvil utilizando **React Native** para [Descripción del Proyecto].
+### **Herramientas de Desarrollo**
+- **Git**, **GitHub**, **Version Control**
+- **VS Code**, **NPM**, **Yarn**
+- **Netlify**, **Vercel** (Despliegue de proyectos)
 
 ---
 
-## 📈 Mis estadísticas de GitHub
+## 🚀 Proyectos Destacados
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=wendyesquera&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+### **1. [Portafolio Personal](https://github.com/tu-usuario/portafolio)**
+Desarrollé mi propio portafolio para mostrar mis proyectos de desarrollo frontend. La interfaz es completamente responsiva, optimizada para una carga rápida, y está construida con **React.js** y **Tailwind CSS**.
 
----
+![Portafolio](https://via.placeholder.com/800x400.png?text=Captura+de+Portafolio)
 
-## 📲 Conecta conmigo
+### **2. [Landing Page para Cliente](https://github.com/tu-usuario/landing-page)**
+Creé una **landing page interactiva** para un cliente utilizando **React.js**. Se diseñó con un enfoque en **SEO**, velocidad y una experiencia de usuario fluida.
 
-- 🌍 **Ubicación**: [Ciudad, País]
-- 💼 **LinkedIn**: [linkedin.com/in/tu-nombre](https://linkedin.com/in/tu-nombre)
-- 🐦 **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
-- 🌐 **Mi Sitio Web**: [tu-sitio-web.com](http://tu-sitio-web.com)
+![Landing Page](https://via.placeholder.com/800x400.png?text=Landing+Page)
 
----
+### **3. [Dashboard para Análisis de Datos](https://github.com/tu-usuario/dashboard)**
+Construí un **dashboard interactivo** con **React.js** y **Chart.js** para visualizar datos en tiempo real, implementando una interfaz de usuario clara y funcional.
 
-## 🌸 Mi filosofía
-
-> "La programación es una forma de transformar ideas en realidad, resolviendo problemas y creando soluciones."
+![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard)
 
 ---
 
-## 🔖 Badges (Insignias)
+## 📈 Estadísticas de GitHub
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=wendyesquera&show_icons=true&hide_title=true&hide=prs&count)
