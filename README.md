@@ -1,6 +1,6 @@
 # 👩‍💻 Wendy Esquea | Desarrolladora Frontend
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Desarrolladora+Frontend)  <!-- Reemplaza con tu propio banner -->
+![Banner]([https://via.placeholder.com/1200x400.png?text=Desarrolladora+Frontend](https://tse2.mm.bing.net/th/id/OIP.TYQTrlEk0xAV_ET_uiVgIgHaHa?w=196&h=196&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3))  <!-- Reemplaza con tu propio banner -->
 
 Soy una **desarrolladora frontend** con pasión por crear interfaces visualmente atractivas, intuitivas y funcionales. Con un fuerte enfoque en **React.js**, **CSS**, y **JavaScript**, me esfuerzo por optimizar cada línea de código y asegurarme de que cada experiencia digital sea única y profesional.
 
@@ -41,11 +41,6 @@ Construí un **dashboard interactivo** utilizando **React.js** y **Chart.js**. P
 
 ---
 
-## 📈 Mis estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=wendyesquera&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
----
 
 ## 📲 Conéctemos
 
@@ -57,6 +52,16 @@ Construí un **dashboard interactivo** utilizando **React.js** y **Chart.js**. P
 ---
 
 ## 🔖 Mis Badges de Tecnologías
+## 🛠 My Tech Arsenal
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=wh)]()
+Aquí están las tecnologías con las que trabajo regularmente:
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
